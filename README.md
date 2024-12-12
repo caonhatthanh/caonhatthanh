@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi, I'm Sin! 👩‍💻
 
-<!--
-**caonhatthanh/caonhatthanh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **UI Developer** passionate about building beautiful and functional web applications, but I can also build almost any **Game Server** if I learn and will not disappoint you. 🚀
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌟 Technologies I Work With:
+
+### Frontend:
+![FE](https://skillicons.dev/icons?i=react,vite,css,bootstrap,html)  
+
+### Backend:
+![BE](https://skillicons.dev/icons?i=nodejs)  
+
+### Databases:
+![DB](https://skillicons.dev/icons?i=mysql,sqlite)  
+
+### Tools & Platforms:
+![Tools](https://skillicons.dev/icons?i=git,github,vscode,ps,pr,sublime,idea,bots)  
+
+### Programming Languages:
+![Languages](https://skillicons.dev/icons?i=js,python,cpp,java,lua)  
+
+---
+
+## 💻 Connect with me!
+- 🌐 [GitHub](https://github.com/caonhatthanh)  
+- 🌐 [Facebook](https://facebook.com/nhatthanhdeptraivailon)  
