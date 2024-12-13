@@ -16,7 +16,7 @@ I'm a **UI Developer** passionate about building beautiful and functional web ap
 ![DB](https://skillicons.dev/icons?i=mysql,sqlite)  
 
 ### Tools & Platforms:
-![Tools](https://skillicons.dev/icons?i=git,github,vscode,ps,pr,sublime,idea,bots)  
+![Tools](https://skillicons.dev/icons?i=git,github,vscode,ps,pr,sublime,idea,discord,bots)  
 
 ### Programming Languages:
 ![Languages](https://skillicons.dev/icons?i=js,python,cpp,java,lua)  
