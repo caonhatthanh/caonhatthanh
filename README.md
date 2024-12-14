@@ -42,4 +42,4 @@ I make no grand promises, but I will do my utmost to achieve my goals. Thank you
 - 🌐 [Facebook](https://facebook.com/nhatthanhdeptraivailon)  
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?caonhatthanh=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=caonhatthanh)](https://github.com/anuraghazra/github-readme-stats)
