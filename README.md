@@ -4,8 +4,8 @@
   
   [![Linkedin](https://img.shields.io/badge/LinkedIn-Phan%20Xu%C3%A2n%20Quang-blue?logo=Linkedin&logoColor=blue&labelColor=black)](https://www.linkedin.com/in/phanxuanquang/)
   [![Mail](https://img.shields.io/badge/Facebook-Phan%20Xu%C3%A2n%20Quang-blue?logo=Facebook&logoColor=blue&labelColor=black)](https://www.facebook.com/nhatthanhdeptraivailon)
-  [![Mail](https://img.shields.io/badge/Discord-Hack%20Ki%E1%BA%BFm%20S%C4%A9-blue?logo=Discord&logoColor=blue&labelColor=black)](https://discord.com/users/598704008940486656)
-  [![Mail](https://img.shields.io/badge/Gmail-phanxuanquang2@gmail.com-blue?logo=Gmail&logoColor=blue&labelColor=black)](mailto:phanxuanquang2@gmail.com)
+  [![Mail](https://img.shields.io/badge/Discord-sikawanonka.-blue?logo=Discord&logoColor=blue&labelColor=black)](https://discord.com/users/598704008940486656)
+  [![Mail](https://img.shields.io/badge/Gmail-shophackgaming@gmail.com-blue?logo=Gmail&logoColor=blue&labelColor=black)](mailto:shophackgaming@gmail.com)
   
 </div>
 
