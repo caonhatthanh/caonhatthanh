@@ -5,6 +5,7 @@
   [![Mail](https://img.shields.io/badge/Facebook-Nhật%20Thanh-blue?logo=Facebook&logoColor=blue&labelColor=black)](https://www.facebook.com/nhatthanhdeptraivailon)
   [![Mail](https://img.shields.io/badge/Discord-sikawanonka.-blue?logo=Discord&logoColor=blue&labelColor=black)](https://discord.com/users/598704008940486656)
   [![Mail](https://img.shields.io/badge/Gmail-shophackgaming@gmail.com-blue?logo=Gmail&logoColor=blue&labelColor=black)](mailto:shophackgaming@gmail.com)
+  [![🐾 Cute Badge](https://img.shields.io/badge/Style-Cute-pink)](https://shields.io)
   
 </div>
 
