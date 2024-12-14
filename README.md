@@ -42,6 +42,6 @@ I make no grand promises, but I will do my utmost to achieve my goals. Thank you
 - 🌐 [Facebook](https://facebook.com/nhatthanhdeptraivailon)  
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=caonhatthanh&show_icons=true&theme=tokyonight)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=caonhatthanh&show_icons=true&theme=tokyonight_height=20)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=caonhatthanh&theme=tokyonight&layout=compact)
 
