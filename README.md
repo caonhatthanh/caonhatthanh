@@ -8,7 +8,13 @@
   
 </div>
 
-I'm a **UI Developer** passionate about building beautiful and functional web applications, but I can also build almost any **Game Server** if I learn and will not disappoint you. 🚀
+
+## About Me
+As a young individual growing up in Vietnam, I have nurtured a deep passion for technology and programming since childhood. Starting out as a curious boy with little knowledge, I relied on diligence and persistence to explore and learn step by step.
+
+I may not be the most talented or the luckiest, but I am determined to bring tangible value to humanity through the lines of code I write and the projects I create.
+
+I make no grand promises, but I will do my utmost to achieve my goals. Thank you for following and supporting me on this journey! 🚀
 
 ---
 
