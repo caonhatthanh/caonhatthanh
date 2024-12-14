@@ -18,6 +18,7 @@ I may not be the most talented or the luckiest, but I am determined to bring tan
 
 I make no grand promises, but I will do my utmost to achieve my goals. Thank you for following and supporting me on this journey! 
 </p>
+
 ---
 
 ## 🌟 Technologies I Work With:
