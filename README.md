@@ -35,15 +35,13 @@ I make no grand promises, but I will do my utmost to achieve my goals. Thank you
 ### Programming Languages:
 ![Languages](https://skillicons.dev/icons?i=js,python,cpp,java,lua)  
 
+
+### Achievements:
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=caonhatthanh&show_icons=true&theme=synthwave&line_height=20)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=caonhatthanh&theme=synthwave&layout=compact)
+
 ---
 
 ## 💻 Connect with me!
 - 🌐 [GitHub](https://github.com/caonhatthanh)  
 - 🌐 [Facebook](https://facebook.com/nhatthanhdeptraivailon)
-
----
-
-### Achievements
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=caonhatthanh&show_icons=true&theme=synthwave&line_height=20)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=caonhatthanh&theme=synthwave&layout=compact)
-
