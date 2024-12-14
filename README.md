@@ -43,5 +43,5 @@ I make no grand promises, but I will do my utmost to achieve my goals. Thank you
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=caonhatthanh&show_icons=true&theme=tokyonight)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=caonhatthanh&layout=compact-vertical)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=caonhatthanh&layout=compact)
 
