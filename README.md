@@ -2,9 +2,9 @@
 
 <div align='center'>
   
-  [![Mail](https://img.shields.io/badge/Facebook-Nhật%20Thanh-blue?logo=Facebook&logoColor=blue&labelColor=blue)](https://www.facebook.com/nhatthanhdeptraivailon)
-  [![Mail](https://img.shields.io/badge/Discord-sikawanonka.-blue?logo=Discord&logoColor=blue&labelColor=blue)](https://discord.com/users/598704008940486656)
-  [![Mail](https://img.shields.io/badge/Gmail-shophackgaming@gmail.com-blue?logo=Gmail&logoColor=blue0&labelColor=blue)](mailto:shophackgaming@gmail.com)
+  [![Mail](https://img.shields.io/badge/Facebook-Nhật%20Thanh-blue?logo=Facebook&logoColor=blue&labelColor=black)](https://www.facebook.com/nhatthanhdeptraivailon)
+  [![Mail](https://img.shields.io/badge/Discord-sikawanonka.-blue?logo=Discord&logoColor=blue&labelColor=black)](https://discord.com/users/598704008940486656)
+  [![Mail](https://img.shields.io/badge/Gmail-shophackgaming@gmail.com-blue?logo=Gmail&logoColor=blue0&labelColor=black)](mailto:shophackgaming@gmail.com)
   
 </div>
 
