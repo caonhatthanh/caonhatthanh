@@ -27,7 +27,7 @@ I make no grand promises, but I will do my utmost to achieve my goals. Thank you
 ![FE](https://skillicons.dev/icons?i=react,vite,css,bootstrap,html)  
 
 ### Backend:
-![BE](https://skillicons.dev/icons?i=nodejs)  
+![BE](https://skillicons.dev/icons?i=nodejs,php)  
 
 ### Databases:
 ![DB](https://skillicons.dev/icons?i=mysql,sqlite)  
