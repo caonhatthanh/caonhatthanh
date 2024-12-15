@@ -33,7 +33,7 @@ I make no grand promises, but I will do my utmost to achieve my goals. Thank you
 ![DB](https://skillicons.dev/icons?i=mysql,sqlite)  
 
 ### Tools & Platforms:
-![Tools](https://skillicons.dev/icons?i=git,github,ps,pr,vscode,idea,discord,bots)  
+![Tools](https://skillicons.dev/icons?i=git,github,vscode,idea,bots)  
 
 ### Programming Languages:
 ![Languages](https://skillicons.dev/icons?i=js,python,cpp,java,lua)  
