@@ -48,9 +48,3 @@ I make no grand promises, but I will do my utmost to achieve my goals. Thank you
 
 
 ---
-
-## 💻 Connect with me!
-- 🌐 [GitHub](https://github.com/caonhatthanh)  
-- 🌐 [Facebook](https://facebook.com/nhatthanhdeptraivailon)
-
-
